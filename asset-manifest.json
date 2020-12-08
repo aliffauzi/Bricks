@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bricks/static/css/main.7f9f48d7.chunk.css",
+    "main.js": "/Bricks/static/js/main.8882a43b.chunk.js",
+    "main.js.map": "/Bricks/static/js/main.8882a43b.chunk.js.map",
+    "runtime-main.js": "/Bricks/static/js/runtime-main.d9504d42.js",
+    "runtime-main.js.map": "/Bricks/static/js/runtime-main.d9504d42.js.map",
+    "static/js/2.8baf7243.chunk.js": "/Bricks/static/js/2.8baf7243.chunk.js",
+    "static/js/2.8baf7243.chunk.js.map": "/Bricks/static/js/2.8baf7243.chunk.js.map",
+    "static/js/3.9750edca.chunk.js": "/Bricks/static/js/3.9750edca.chunk.js",
+    "static/js/3.9750edca.chunk.js.map": "/Bricks/static/js/3.9750edca.chunk.js.map",
+    "index.html": "/Bricks/index.html",
+    "static/css/main.7f9f48d7.chunk.css.map": "/Bricks/static/css/main.7f9f48d7.chunk.css.map",
+    "static/js/2.8baf7243.chunk.js.LICENSE.txt": "/Bricks/static/js/2.8baf7243.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9504d42.js",
+    "static/js/2.8baf7243.chunk.js",
+    "static/css/main.7f9f48d7.chunk.css",
+    "static/js/main.8882a43b.chunk.js"
+  ]
+}
